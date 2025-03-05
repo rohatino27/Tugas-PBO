@@ -8,7 +8,7 @@ class Sekolah:
     def menerima_murid(self):
         print('-----------------------------------------------------------------------------')
         print(f'{self.nama_sekolah} telah membuka PPDB tahun pelajaran 2045/2046!')
-        print(f'Sekolah ini meimiliki akreditasi {self.akreditasi} dan berdiri sejak tahun {self.tahun_berdiri}')
+        print(f'Sekolah ini memiliki akreditasi {self.akreditasi} dan berdiri sejak tahun {self.tahun_berdiri}')
         print('-----------------------------------------------------------------------------')
 
     def mengeluarkan_murid(self):
